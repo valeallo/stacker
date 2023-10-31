@@ -37,7 +37,7 @@ h1 {
   /* width: 50%; */
   cursor: pointer;
   text-transform: uppercase;
-  border: 2px solid rgb(0, 23, 50);
+  border: 2px solid rgb(50, 0, 0);
 }
 
 .btn:hover {
